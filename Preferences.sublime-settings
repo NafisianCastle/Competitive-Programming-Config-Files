@@ -1,0 +1,15 @@
+{
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"theme": "Adaptive.sublime-theme",
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.sublime-color-scheme",
+	"spell_check": true,
+	"highlight_line": true,
+	"font_face": "Operator Mono",
+	"font_size": 11,
+	"auto_complete": false,
+	"trim_trailing_white_space_on_save": "none",
+	//"auto_complete": true,
+}
